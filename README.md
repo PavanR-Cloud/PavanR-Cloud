@@ -12,7 +12,7 @@
 ## `whoami`
 
 ```python
-pavan = {
+pavanraman = {
     "name"      : "Pavan R",
     "college"   : "VIT Vellore — B.Tech CSE (2nd Year)",
     "interests" : ["Competitive Programming", "DSA","Cyber Security","Machine Learning"],
@@ -28,7 +28,7 @@ pavan = {
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
