@@ -80,22 +80,36 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=PavanR-Cloud&theme=r
 
 ### 🏆 Competitive Programming
 
-- 💪 Actively solving problems on **LeetCode**, **HackerRank**, and **Codeforces**
-- 🎯 Focus areas: **Arrays, Linked Lists, Trees, Graphs, Dynamic Programming**
+
+  [LeetCode]   → Array · String · DP · Graph
+  [Codeforces] → Greedy · Math · Constructive
+  [HackerRank] → Problem Solving · DSA
+
+  Current focus: Trees 🌳 + Dynamic Programming 🧩
+
 
 ---
 
-### 🤝 Connect with Me
+## `./connect --with-me`
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-raman)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PavanR-1732)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanraman22@gmail.com)
+
+💼 Open to internships, full-time roles & collaborations
+
+</div>
 
 ---
 
-<p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PavanR-Cloud&color=00D9FF&style=flat-square&label=VISITORS)
+
+```
+"First, solve the problem. Then, write the code." — John Johnson
+```
+
+</div>
