@@ -57,19 +57,24 @@ Unplanned downtime is costly — in revenue and user trust. VerifAI bridges the 
 
 ---
 
-### 📊 GitHub Stats
+## `./stats --github`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Pavan's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Pavan's GitHub Streak" />
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=PavanR-Cloud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanR-Cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=PavanR-Cloud&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+</div>
 
 ---
 
