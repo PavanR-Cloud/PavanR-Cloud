@@ -137,9 +137,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=PavanR-Cloud&theme=r
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-raman)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PavanR-1732)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanraman22@gmail.com)
 
 </div>
 
@@ -147,7 +147,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=PavanR-Cloud&theme=r
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=PavanR-Cloud&color=00D9FF&style=flat-square&label=VISITORS)
 
 ```
 "First, solve the problem. Then, write the code." — John Johnson
