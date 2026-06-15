@@ -1,17 +1,20 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ██████╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║    ██╔══██╗
-██████╔╝███████║██║   ██║███████║██╔██╗ ██║    ██████╔╝
-██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║    ██╔══██╗
-██║     ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║    ██║  ██║
-╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  ╚═╝
+<div align="center">
+
+## — PAVAN R —
+#### Second Year CSE · VIT Vellore · India
+
+![](https://img.shields.io/badge/Currently_Building-VerifAI-00D9FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Focus-DSA_%26_ML-blueviolet?style=flat-square&labelColor=0D1117)
+
+</div>
 ```
 
 ### `< Building things that matter. Breaking things to learn. />`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2nd+Year+CSE+%40+VIT+Vellore;Competitive+Programmer+%7C+DSA+Enthusiast;ML+Explorer+%7C+Problem+Solver;Building+VerifAI+%F0%9F%94%8D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2nd+Year+CSE+%40+VIT+Vellore;Competitive+Programmer+%7C+DSA+Enthusiast;Cyber+Security+Enthusiast+%7C+Problem+Solver;Building+VerifAI+%F0%9F%94%8D)
 
 </div>
 
