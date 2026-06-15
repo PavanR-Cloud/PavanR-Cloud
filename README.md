@@ -1,158 +1,92 @@
-<div align="center">
-
-```
 <h1 align="center">Hi 👋, I'm Pavan R</h1>
 <h3 align="center">🎓 Second Year CSE Student at VIT Vellore | 💡 Competitive Programmer | 🛠️ Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanr&label=Profile%20views&color=0e75b6&style=flat" alt="pavanr" />
 </p>
-```
-
-### `< Building things that matter. Breaking things to learn. />`
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2nd+Year+CSE+%40+VIT+Vellore;Competitive+Programmer+%7C+DSA+Enthusiast;Cyber+Security+Enthusiast+%7C+Problem+Solver;Building+VerifAI+%F0%9F%94%8D)
-
-</div>
 
 ---
 
-## `whoami`
+### 🙋‍♂️ About Me
 
-```python
-pavan = {
-    "name"      : "Pavan R",
-    "college"   : "VIT Vellore — B.Tech CSE (2nd Year)",
-    "interests" : ["Competitive Programming", "DSA","Cyber Security","Machine Learning"],
-    "languages" : ["C", "C++", "SQL", "Python"],
-    "currently" : "Predicting server crashes with AI 🔮",
-    "motto"     : "Code it. Break it. Fix it. Ship it.",
-}
-```
+- 🎓 I'm a **2nd Year B.Tech student at VIT Vellore**
+- 💻 Passionate about **Competitive Programming & Data Structures and Algorithms**
+- 🔭 Currently working on expanding my skills in **Python & Machine Learning**
+- 🌱 Learning **advanced DSA** and exploring **system design**
+- 💬 Ask me about **C, C++, Java, Python**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: I love turning complex problems into elegant code!
 
 ---
 
-## `./skills --list`
+### 🛠️ Languages & Tools
 
-<div align="center">
-
-| Language | Proficiency |
-|----------|-------------|
-| C | `████████░░` Strong |
-| C++ | `████████░░` Strong |
-| SQL | `███████░░░` Intermediate |
-| Python | `███████░░░` Intermediate |
-
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 ---
 
-## `git log --featured-project`
+### 🚀 Featured Project
 
-<table>
-<tr>
-<td width="60%">
+#### 🔍 VerifAI – AI-Powered Server Crash Prediction System
 
-### 🔍 VerifAI
-**AI-Powered Server Crash Prediction**
+> *Shifting from reactive incident response to proactive reliability engineering.*
 
-```bash
-$ verifai --status
-[✓] Log ingestion     — ACTIVE
-[✓] Anomaly detection — RUNNING
-[✓] ML model          — ONLINE
-[✓] Email alerts      — ARMED
-[✓] Dashboard         — LIVE
-```
+Built an intelligent server monitoring system that **predicts failures before they happen**.
 
-> Stops server outages *before* they happen.
-> No more 3am firefighting. 🚒
+| Feature | Description |
+|--------|-------------|
+| 📊 Real-time Log Analysis | Detects anomalous patterns in server logs instantly |
+| 🤖 ML-based Prediction | Forecasts potential crashes and system failures |
+| 📧 Automated Email Alerts | Notifies teams the moment a risk is detected |
+| 🖥️ Live Dashboard | Continuous system health visibility at a glance |
 
-**Stack:** `Python` `ML` `Log Analysis` `Alerting`
+**💡 Why it matters:**
+Unplanned downtime is costly — in revenue and user trust. VerifAI bridges the gap between raw log data and actionable intelligence, giving teams the heads-up they need to prevent outages before they escalate.
 
-</td>
-<td width="40%">
-
-```
-         VerifAI
-    ┌─────────────┐
-    │  Server Logs│
-    └──────┬──────┘
-           │ ingest
-    ┌──────▼──────┐
-    │  ML Engine  │
-    └──────┬──────┘
-           │ predict
-    ┌──────▼──────┐
-    │ 🚨 Alert!   │
-    └──────┬──────┘
-           │ notify
-    ┌──────▼──────┐
-    │  Dashboard  │
-    └─────────────┘
-```
-
-</td>
-</tr>
-</table>
+**🔧 Tech Stack:**
+`Python` · `Machine Learning` · `Log Analysis` · `Email Alerting` · `Dashboard Visualization`
 
 ---
 
-## `./stats --github`
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Pavan's GitHub Stats" />
+</p>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=PavanR-Cloud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Pavan's GitHub Streak" />
+</p>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanR-Cloud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=PavanR-Cloud&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## `./cp --arena`
+### 🏆 Competitive Programming
 
-```
-🏆 Competitive Programming Arenas:
-
-  [LeetCode]   → Array · String · DP · Graph
-  [Codeforces] → Greedy · Math · Constructive
-  [HackerRank] → Problem Solving · DSA
-
-  Current focus: Trees 🌳 + Dynamic Programming 🧩
-```
+- 💪 Actively solving problems on **LeetCode**, **HackerRank**, and **Codeforces**
+- 🎯 Focus areas: **Arrays, Linked Lists, Trees, Graphs, Dynamic Programming**
 
 ---
 
-## `./connect --with-me`
+### 🤝 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-raman)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PavanR-1732)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanraman22@gmail.com)
-
-💼 Open to internships, full-time roles & collaborations
-
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PavanR-Cloud&color=00D9FF&style=flat-square&label=VISITORS)
-
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
-
-</div>
+<p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
