@@ -9,14 +9,18 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I'm a **2nd Year B.Tech student at VIT Vellore**
-- 💻 Passionate about **Competitive Programming & Data Structures and Algorithms**
-- 🔭 Currently working on expanding my skills in **Python & Machine Learning**
-- 🌱 Learning **advanced DSA** and exploring **system design**
-- 💬 Ask me about **C, C++, Java, Python**
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: I love turning complex problems into elegant code!
+## `whoami`
 
+```python
+pavan = {
+    "name"      : "Pavan R",
+    "college"   : "VIT Vellore — B.Tech CSE (2nd Year)",
+    "interests" : ["Competitive Programming", "DSA","Cyber Security","Machine Learning"],
+    "languages" : ["C", "C++", "SQL", "Python"],
+    "currently" : "Predicting server crashes with AI 🔮",
+    "motto"     : "Code it. Break it. Fix it. Ship it.",
+}
+```
 ---
 
 ### 🛠️ Languages & Tools
