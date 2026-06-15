@@ -1,15 +1,12 @@
 <div align="center">
 
 ```
-<div align="center">
+<h1 align="center">Hi 👋, I'm Pavan R</h1>
+<h3 align="center">🎓 Second Year CSE Student at VIT Vellore | 💡 Competitive Programmer | 🛠️ Problem Solver</h3>
 
-## — PAVAN R —
-#### Second Year CSE · VIT Vellore · India
-
-![](https://img.shields.io/badge/Currently_Building-VerifAI-00D9FF?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/Focus-DSA_%26_ML-blueviolet?style=flat-square&labelColor=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanr&label=Profile%20views&color=0e75b6&style=flat" alt="pavanr" />
+</p>
 ```
 
 ### `< Building things that matter. Breaking things to learn. />`
